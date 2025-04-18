@@ -3,7 +3,7 @@
 Projeto Calculadora com objetivo simular uma calculadora real. Utiliza um Banco de Dados - MySQL para armazenar os calculos. O Codigo usa a Programação Orientada a Objetos os conceitos utilizados são: Classes e Objetos, Encapsulamento, Modularização, Composição (has-a), Reutilização, Eventos, Sobrescrita.
 ---
 
-                                                        Calculadora feita em Java
+                                                      Calculadora feita em Java
 ---                                                        
 
 ###
@@ -38,3 +38,9 @@ Projeto Calculadora com objetivo simular uma calculadora real. Utiliza um Banco 
 
 > **VM Engine Development v1.0** é o motor gráfico de interface gráfica criado exclusivamente para este projeto
 ###
+
+---
+
+🎮 **Conheça mais sobre o Projeto VM Engine (SkyFall)**  
+📺 YouTube: [@VitorManoelVB](https://www.youtube.com/@VitorManoelVB)
+
