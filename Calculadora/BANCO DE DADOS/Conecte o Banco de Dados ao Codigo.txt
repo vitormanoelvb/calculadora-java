@@ -1,0 +1,4 @@
+faça a importação do banco de dados calculadora_db para o phpmyadmin e estabeleça a conexão com o código
+
+Baixe o XAMPP em:
+https://www.apachefriends.org/pt_br/download.html

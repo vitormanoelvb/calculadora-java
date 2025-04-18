@@ -1,0 +1,8 @@
+BAIXE O Java AQUI:
+https://www.java.com/pt-BR/download/
+
+BAIXE O JDK AQUI:
+https://www.oracle.com/br/java/technologies/downloads/
+
+BAIXE NO VS CODE O Extension Pack for Java AQUI:
+https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-pack
