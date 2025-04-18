@@ -3,7 +3,7 @@
 Projeto Calculadora com objetivo simular uma calculadora real. Utiliza um Banco de Dados - MySQL para armazenar os calculos. O Codigo usa a Programação Orientada a Objetos os conceitos utilizados são: Classes e Objetos, Encapsulamento, Modularização, Composição (has-a), Reutilização, Eventos, Sobrescrita.
 ---
 
-                                                  Calculadora feita em Java
+                                                  Siga as orientações dos Arquivos .TXT para roda o codigo
 ---                                                        
 
 ###
