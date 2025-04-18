@@ -3,7 +3,7 @@
 Projeto Calculadora com objetivo simular uma calculadora real. Utiliza um Banco de Dados - MySQL para armazenar os calculos. O Codigo usa a Programação Orientada a Objetos os conceitos utilizados são: Classes e Objetos, Encapsulamento, Modularização, Composição (has-a), Reutilização, Eventos, Sobrescrita.
 ---
 
-                                 Consulte os arquivos .TXT para executar o código corretamente.
+                            Consulte os arquivos .TXT para executar o código corretamente.
      
 ---                                                        
 
